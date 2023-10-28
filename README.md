@@ -37,5 +37,5 @@ The application will display a directed graph. Click on a node to expand it and 
 <img src="example.png" width="70%">
 
 ## License
-This project is licensed under the MIT License. See the LICENSE.md file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/haztro/make-map/blob/main/LICENSE) file for details.
 
