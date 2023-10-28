@@ -1,0 +1,36 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;  /* Optional: This will remove scrollbars */
+    font-family: Arial;
+    font-size: 16px;
+  }
+
+#mynetwork {
+    width: 100vw;
+    height: 100vh;
+    border: 1px solid lightgray;
+}
+  
+#overlay {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    z-index: 1;
+}
+  
+#objectInput {
+    padding: 5px;
+    font-size: 16px;
+}
+
+#generateGraph {
+    padding: 5px 15px;
+    font-size: 16px;
+}
+
+#loading {
+    display: none; 
+    padding: 5px;
+    font-size: 16px;
+}

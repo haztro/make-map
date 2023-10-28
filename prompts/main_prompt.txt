@@ -1,0 +1,13 @@
+I want to create instructions for creating/obtaining a <OBJECT>. What single instruction would you give me so I can obtain/create the <OBJECT>? What things (intermediaries, materials, tools, concepts, etc) are necessary to carry out this instruction? I only require the final instruction that results in the <OBJECT>.
+
+Respond with JSON in the following format:
+
+{"instruction" : <INSTRUCTION>, "things_required" : <LIST_OF_THINGS>}
+
+Where you will fill out <INSTRUCTION> and <LIST_OF_THINGS>. 
+
+Requirements:
+- I do not have the <OBJECT> yet and so <INSTRUCTION> MUST NOT require or include it.
+- keep the instruction name and thing names short, specific and descriptive. 
+- "things_required" cannot be empty. 
+- each item in the list should be it's own thing (no "or").
