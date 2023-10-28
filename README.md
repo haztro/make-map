@@ -33,7 +33,8 @@ python app.py
 Open your web browser and navigate to http://127.0.0.1:5000/.
 
 The application will display a directed graph. Click on a node to expand it and reveal further instructions and required items.
-![example](example.png)
+
+<img src="example.png" width="70%">
 
 ## License
 This project is licensed under the MIT License. See the LICENSE.md file for details.
