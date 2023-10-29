@@ -9,7 +9,7 @@ Stupid app that visualises how-to instructions for "anything". Built with Flask,
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/make-map.git
+git clone https://github.com/haztro/make-map.git
 ```
 Install requirements: 
 
